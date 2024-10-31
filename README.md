@@ -6,4 +6,4 @@ Modded fur colors can not be seen by players that don't have the mod installed. 
 
 ![furcolors](https://github.com/user-attachments/assets/985f29f9-aad3-462c-bce5-92a513c0bc26)
 
-## Planning to add more colors :)
+Planning to add more colors :)
