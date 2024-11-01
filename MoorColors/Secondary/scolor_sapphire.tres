@@ -5,12 +5,12 @@
 
 [resource]
 script = ExtResource( 1 )
-name = "Lavender Fur"
+name = "Sapphire Fur"
 desc = "Furry!"
 title = ""
 icon = ExtResource( 2 )
 species_alt_mesh = [  ]
-main_color = Color( 0.576471, 0.439216, 0.858824, 1 )
+main_color = Color( 0.0941176, 0.266667, 0.627451, 1 )
 body_pattern = [  ]
 mirror_face = true
 flip = false
